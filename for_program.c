@@ -5,6 +5,7 @@
 #define STEP 	20
 
 
+
 int main()
 {
 	int fahr;
